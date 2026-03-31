@@ -1,0 +1,11 @@
+streamlit
+networkx
+numpy
+plotly
+neo4j
+cassandra-driver
+python-dotenv
+pandas
+matplotlib
+requests
+tqdm
